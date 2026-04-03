@@ -1,0 +1,101 @@
+Date,Cash_Inflow,Cash_Outflow,Currency_Rate,Region,Notes
+2023-01-01,60617,58092,,,Normal
+2023-01-02,79805,,,,
+2023-01-03,not_available,47227,82.04,,Data issue
+2023-01-04,,30377,,,
+2023-01-05,,39320,83.76,,High inflow
+2023-01-06,not_available,32821,84.22,,Missing region
+2023-01-07,88412,,82.62,India,Missing region
+2023-01-08,74901,,,India,High inflow
+2023-01-09,89330,41179,,India,High inflow
+2023-01-10,,,85.9,,
+2023-01-11,not_available,NaN,82.69,,Normal
+2023-01-12,not_available,,invalid,,Missing region
+2023-01-13,54158,43297,84.05,,Data issue
+2023-01-14,,54018,82.35,,
+2023-01-15,not_available,NaN,,,High inflow
+2023-01-16,not_available,NaN,82.78,,Missing region
+2023-01-17,67434,34629,invalid,,Normal
+2023-01-18,,NaN,,,High inflow
+2023-01-19,56854,,invalid,India,Missing region
+2023-01-20,58148,NaN,83.28,India,High inflow
+2023-01-21,62976,38671,83.95,,High inflow
+2023-01-22,,50852,,,
+2023-01-23,79141,47305,85.76,India,Normal
+2023-01-24,not_available,NaN,invalid,,Data issue
+2023-01-25,not_available,51185,83.06,,Normal
+2023-01-26,56644,NaN,85.27,,
+2023-01-27,,,83.43,,Data issue
+2023-01-28,74198,,,,
+2023-01-29,57500,,,India,Data issue
+2023-01-30,,31440,invalid,,High inflow
+2023-01-31,,,82.22,India,Data issue
+2023-02-01,61694,37751,82.76,India,Normal
+2023-02-02,55156,58263,82.51,,Normal
+2023-02-03,not_available,,84.04,,High inflow
+2023-02-04,89626,,85.4,,
+2023-02-05,,52444,,,Data issue
+2023-02-06,61663,,invalid,,Data issue
+2023-02-07,not_available,59770,invalid,,Normal
+2023-02-08,83794,30372,,,
+2023-02-09,not_available,57233,invalid,,Data issue
+2023-02-10,not_available,,,,High inflow
+2023-02-11,61537,60923,83.73,,
+2023-02-12,,NaN,invalid,India,Normal
+2023-02-13,66434,,85.18,,Data issue
+2023-02-14,55790,39321,,,Missing region
+2023-02-15,66772,NaN,invalid,,High inflow
+2023-02-16,not_available,35756,invalid,India,Normal
+2023-02-17,not_available,NaN,,India,Normal
+2023-02-18,not_available,NaN,82.2,,Normal
+2023-02-19,not_available,,,India,Normal
+2023-02-20,1000000,,84.33,,Missing region
+2023-02-21,78318,,invalid,,
+2023-02-22,53546,61045,,,Missing region
+2023-02-23,84434,,invalid,,Normal
+2023-02-24,not_available,NaN,,,Normal
+2023-02-25,not_available,,invalid,,High inflow
+2023-02-26,,,,,Normal
+2023-02-27,not_available,,,India,
+2023-02-28,,NaN,82.45,India,Data issue
+2023-03-01,58922,,invalid,India,
+2023-03-02,,45672,,India,Normal
+2023-03-03,66390,40257,invalid,,Missing region
+2023-03-04,not_available,63128,83.93,,High inflow
+2023-03-05,not_available,,invalid,,Normal
+2023-03-06,not_available,33380,,,Data issue
+2023-03-07,not_available,57549,invalid,,Data issue
+2023-03-08,88516,,83.5,India,High inflow
+2023-03-09,,,invalid,,Missing region
+2023-03-10,not_available,,83.52,,High inflow
+2023-03-11,88869,NaN,invalid,,High inflow
+2023-03-12,not_available,,,India,Normal
+2023-03-13,57380,NaN,82.26,,
+2023-03-14,,NaN,83.8,,
+2023-03-15,not_available,55463,85.91,,Normal
+2023-03-16,not_available,39170,,,Data issue
+2023-03-17,87908,NaN,,,Normal
+2023-03-18,,58300,,,High inflow
+2023-03-19,not_available,,84.55,,
+2023-03-20,not_available,NaN,invalid,,High inflow
+2023-03-21,not_available,,invalid,,Missing region
+2023-03-22,,38559,,,Missing region
+2023-03-23,72475,,85.37,,Data issue
+2023-03-24,not_available,NaN,invalid,,
+2023-03-25,,30881,85.72,India,Data issue
+2023-03-26,71562,,,,Data issue
+2023-03-27,,,,,
+2023-03-28,,,invalid,,Normal
+2023-03-29,not_available,50118,84.49,India,High inflow
+2023-03-30,not_available,,invalid,,
+2023-03-31,not_available,,84.24,India,Missing region
+2023-04-01,,NaN,invalid,,
+2023-04-02,73189,,,India,
+2023-04-03,,43429,invalid,,Missing region
+2023-04-04,77706,42016,,,Data issue
+2023-04-05,,61597,,,Normal
+2023-04-06,not_available,43322,85.69,India,Normal
+2023-04-07,not_available,40909,invalid,,Missing region
+2023-04-08,87775,NaN,82.13,India,High inflow
+2023-04-09,80790,,,,Data issue
+2023-04-10,,,invalid,,
